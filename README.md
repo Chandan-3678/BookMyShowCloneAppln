@@ -1,1 +1,1 @@
-Book My Show Clone Application by DevTown
+Book My Show Clone Application
